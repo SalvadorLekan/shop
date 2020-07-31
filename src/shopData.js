@@ -1,4 +1,4 @@
-export const shopData =[{id:'',name:'',brand:'',categories:'',imageLink:'',price:0,pageLink:'',desription:'none'},
+export const shopData =[
     {id:1,name:'iPhone 11',brand:'Apple',categories:'mobile phones',imageLink:'https://as-images.apple.com/is/iphone11-black-select-2019?wid=1200&hei=630&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1566956144418',price:300000,pageLink:'iPhone11',desription:'none'},
     {id:2,name:'Redmi 9',brand:'Xiaomi',categories:'mobile phones',imageLink:'https://astig.ph/wp-content/uploads/2020/06/Redmi-9-Philippines.jpg',price:67000,pageLink:'Redmi9',desription:'none'},
     {id:3,name:'Galaxy Note 20 plus',brand:'Samsung',categories:'mobile phones',imageLink:'https://getmobileprices.com/wp-content/uploads/2020/05/0-77.jpeg',price:500000,pageLink:'GalaxyNote20plus',desription:'none'},
