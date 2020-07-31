@@ -9,7 +9,7 @@ export class HomePage extends Component {
     render() {
         return (
             <Container>
-               <Row>
+               <Row className='mt-5'>
                 {shopData.map(({id,name,imageLink,pageLink})=><Col xs={12} sm={6} lg={3} key={id}><ItemCard imgname={imageLink} name={name} linkto={pageLink} /></Col>)}
             </Row> 
             </Container>
